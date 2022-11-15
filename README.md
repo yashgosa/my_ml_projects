@@ -6,3 +6,7 @@ The aim of this is to let me review my works and know what my weaknesses and str
 ## List of projects:
 1. Review Classisfier
 2. Dog Breed recognizer
+3. Mario Game automation
+4. Doom Game automation'
+5. Street Fighter Game automation
+6. Dino Game Automation
